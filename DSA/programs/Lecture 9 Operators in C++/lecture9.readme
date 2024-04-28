@@ -1,0 +1,59 @@
+Operator : An operator is a symbol that operates on a value to perform specific mathematical or logical computations. 
+They form the foundation of any programming language.
+
+Uniary operator : 
+
+1. ++ : 
+    a. pre increment : pehle increment kardo and then usse access karlena
+    b. post increment : pehle use ya access karlo and then usse increment kardo
+2. -- : 
+    a. pre decrement : pehle decrement kardo and then usse access karlena
+    b. pose decrement : pehle use ya access karlo and then usse decrement kardo
+
+
+Binary Operator : 
+
+1. Arithmetic Operator : 
+    + , - , *, /, %
+    normal operators functionality
+    one thing to note is that when an integer is divided by integer the resultant value will always be an integer. The same case is with float and double also.
+    5/2 = 2
+    but 5.0/2 = 2.5
+    and also (5*1.0/2) = 2.5
+
+2. Relational Operator :
+    < , > , >= , <= , ==, !=
+     
+3. Logical Operator : 
+
+    && : if all conditions are true then result is true. If anyone condition is false then, result is false.
+    || : if one of the condition is true then result is true. If all are false then then result is false.
+    ! : true -> false , false -> true
+
+4. Assignment Operator : 
+    = : assigning value to a variable. int a = 5;
+    += : a = a + 5. this statement can be written as a += 5
+    -= : a -= 1, same as the explaination above
+    *= : a *= 5, same as the explaination above
+    /= : a /= 5, same as the explaination above
+    %= : a%= 5, same as the explaination above
+
+5. Bitwise Operator : 
+    &(AND) : 
+            a   b   o/p
+            0   0   0
+            0   1   0
+            1   0   0
+            1   1   1
+
+    |(OR) : 
+
+            a   b   o/p
+            0   0   0
+            0   1   1
+            1   0   1
+            1   1   1
+    ~(Tilda) : this changes 1->0 and 0->1 in the binary representation of the number. Eg: (~1) when cout , result will be -2
+    << (Left Shift operator) : the bits are shifted to left. In short they are multiplied by 2. (5 << 1) will be 10. If it is (5 << 2) that means 5*2 = 10 * 2 = 20.
+    >> (Right Shift operator) : the bits are shifted to right. In short they are divided by 2. (100 >> 1) will be 50. If it is (100 >> 2) that means 25. 
+    ^ (XOR operator) : 5 ^ 5 will result to 0. 

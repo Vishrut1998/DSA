@@ -1,0 +1,20 @@
+Functions :
+A function is a way to group code into a singe unit. It can take inputs, process them and return a result. Functions help in
+organizing code, making it more readable and maintainable.
+
+To avoid repeating your code again and again and refrain your code from becoming bulky, we use function.
+There is a possibility that your code has become bugy. So we make a single place where we keep our code and have the liberty to reuse the code again and again.
+
+We need function because functions reduce repition, simplify complex tasks, and help in debugging.
+They also make it easier to test individual parts of the program.
+
+Function Anatomy : 
+Decleration
+Definition
+Does order matter
+
+Return type can be void and non void(int, char, float, double).  
+
+Whatever you send in the function definition are called parameters.
+Values which we enter in the function calling are called arguments.
+

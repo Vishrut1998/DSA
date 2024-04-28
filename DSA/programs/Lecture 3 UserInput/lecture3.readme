@@ -1,0 +1,10 @@
+Input Stream - 'cin'
+Straight forward topic
+takes input using cin and arrows are like >>
+
+but in case of boolean, the input cannot be accepted as true or false.
+it will always return 0.
+
+cin.ignore()
+cin.fail()
+getline(cin, 10)
