@@ -1,0 +1,13 @@
+For Loop
+Syntax : for(initialization, condition, updation) ICU
+'break' keyword is also used n for loop to stop the execution and get out of the loop.
+'continue' keyword skip an iteration 
+
+While is also the same as for loop just that the way of writing the code is different.
+
+Syntax for while:
+
+initialization
+while (condition) {
+    logic 
+} updation

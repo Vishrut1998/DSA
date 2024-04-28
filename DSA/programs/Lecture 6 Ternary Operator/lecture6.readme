@@ -1,0 +1,5 @@
+In ternary operator : 
+there is no if condition but there is a true and false expression after the '?'. If the condition is true then the expression after '?' is returned
+else the expression after ':' is returned.
+
+(condition) ? true expression : false expression

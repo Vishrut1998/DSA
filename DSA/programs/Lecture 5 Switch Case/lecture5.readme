@@ -1,0 +1,13 @@
+The switch statement in C++ is a control flow statement that allows the user to execute different blocks of code based on 
+the value of an expression. It's an alternative to using a series of if-else statements when you need to compare a variable
+against multiple values.
+
+When we have to compare two values or check whether two values are equal then we will use '=='. 
+
+Conditions pertaining to 'Switch'
+
+- Expression type
+- Unique Case values
+- No Range checking
+- Fall through behaviour
+- Execution Order

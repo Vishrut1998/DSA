@@ -1,0 +1,19 @@
+Number System : 
+Method to represent numeric values or quantities using different digits
+
+
+Decimal System : 
+The decimal number system has base 10.
+It uses digits from 0 to 9.
+Base: it is the number of symbols (digits) a number system uses.
+
+Binary Number System : 
+Number system using base as 2.
+It uses only two digits i.e. 0 and 1.
+
+Decimal to Binary conversion : 
+Divide number 2
+Store reminder(That will be a bit in binary number)
+Repeat aboe steps with the quotient until the quotient is less than 2.
+Reverse the bits so obtained.
+

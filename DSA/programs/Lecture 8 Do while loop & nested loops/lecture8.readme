@@ -1,0 +1,13 @@
+Do-while loop:
+
+In do while loop one iteration will always be executed. Consider the following example : 
+int i = 21;
+do{
+    cout << i;
+    i = i + 1;
+} while(i <= 5)
+
+so even if 21 <= 5 statement is false one iteration will still be executed.
+In for loop and while loop condition is checked first and then the code is executed.
+But in the do while loop the first iteration will always be executed irrespective of the condition provided.
+So do while loop is not used that much.
